@@ -2,7 +2,7 @@ This is the repository for Fathers Kingdom Reimagined SMP.
 
 # Update Script
 ### **Manual Method**
-  You can download it through the [release](https://youtube.com) section, and place it inside your minecraft folder.
+  You can download it through the [release](https://github.com/Sandwichkat/FathersKingdom-Reimagined/releases/tag/prerelase) section, and place it inside your minecraft folder.
 
 ### **Automatic Method (lazy)**
 Run this powershell commands inside your minecraft folder.
