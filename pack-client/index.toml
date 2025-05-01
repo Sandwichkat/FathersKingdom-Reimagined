@@ -409,3 +409,11 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
 metafile = true
+
+[[files]]
+file = "update.bat"
+hash = "70c6ba1e343d7e2ba81483b1c2d84f9ea1004501e7bcbb5b0fe655b33cde1576"
+
+[[files]]
+file = "update.ps1"
+hash = "2f0f1b8e277c35aa2f1571573ca0c543ebccdd73d1c1f3ec3e433a7fc677218f"
