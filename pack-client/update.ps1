@@ -10,7 +10,6 @@ if(-Not (Get-Command "java.exe" -ErrorAction SilentlyContinue)){
 
 }
 
-
 if(-Not (Test-Path $packwiz_bootstrap_output_dir)){
     Write-Host "File not found, downloading..."
     Invoke-WebRequest -Uri $packwiz_bootstrap_link -OutFile $packwiz_bootstrap_output_dir
