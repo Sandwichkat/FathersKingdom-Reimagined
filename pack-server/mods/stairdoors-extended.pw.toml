@@ -1,0 +1,13 @@
+name = "StairDoors Extended"
+filename = "stairdoors-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Me6i1c0i/versions/7YJVwp1i/stairdoors-1.0.0.jar"
+hash-format = "sha512"
+hash = "7a5b610b766f2f1c9f62a82d665837a7b5a644b78e15c1b3d2db5b26ec6deb349ea2902d62c671322d5d371223dfaf1fb57fed473b7872907bd6c979b8ead7c4"
+
+[update]
+[update.modrinth]
+mod-id = "Me6i1c0i"
+version = "7YJVwp1i"

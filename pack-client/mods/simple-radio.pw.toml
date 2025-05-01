@@ -1,0 +1,13 @@
+name = "Simple Radio"
+filename = "SimpleRadio-fabric-1.20.1-2.4.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/S7b8mMXS/versions/jRK9rzce/SimpleRadio-fabric-1.20.1-2.4.6.1.jar"
+hash-format = "sha512"
+hash = "51df76705b2bb49237194f1abdbf64a425a250db369b0bff00bd53ede7d55622d701cb7645fd50d2238a304a71c51b6940304165847993c2b4ce1094ef9235ca"
+
+[update]
+[update.modrinth]
+mod-id = "S7b8mMXS"
+version = "jRK9rzce"

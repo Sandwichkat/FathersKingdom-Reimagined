@@ -1,0 +1,13 @@
+name = "Fless-reimagined"
+author = "Kat"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "588a620e17815e7f49dfb198d4de4915d634ac68df3a9b6144afb4859d489cca"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.20.1"

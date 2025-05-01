@@ -1,0 +1,13 @@
+name = "[TaCZ] Timeless and Classics Zero"
+filename = "tacz-fabric-1.20.1-1.0.2-hotfix3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SzzJttH8/versions/TCw77i1W/tacz-fabric-1.20.1-1.0.2-hotfix3.jar"
+hash-format = "sha512"
+hash = "5e57b66c9b3a49a6614530d60be28e1586bd1cf750c980f73d22a0237d3a780c40cbaa723c79635f25ec13d3f6b3a4380a28585e73bfb2cc2395070b2a1da9c6"
+
+[update]
+[update.modrinth]
+mod-id = "SzzJttH8"
+version = "TCw77i1W"
