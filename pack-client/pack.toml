@@ -1,12 +1,12 @@
 name = "Fless-reimagined"
 author = "Kat"
-version = "0.0.1"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "588a620e17815e7f49dfb198d4de4915d634ac68df3a9b6144afb4859d489cca"
+hash = "6413832709e206dc8c48b882052a6170e73d43488aa333114bacecb927f6a170"
 
 [versions]
 fabric = "0.16.14"
