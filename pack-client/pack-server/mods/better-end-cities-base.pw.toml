@@ -1,0 +1,13 @@
+name = "Better End Cities Vanilla"
+filename = "betterendcitiesvanilla-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FEChYs43/versions/Cj2fuppX/betterendcitiesvanilla-1.20.1.jar"
+hash-format = "sha512"
+hash = "911ecfb7a05debd8d427a6a2d0238cb40e9969882b318ede74f1245b4b6047fc3fb5510df1bf130a400868b8c7d6cce0e153f3717e7f636196240e1ed83993ef"
+
+[update]
+[update.modrinth]
+mod-id = "FEChYs43"
+version = "Cj2fuppX"
