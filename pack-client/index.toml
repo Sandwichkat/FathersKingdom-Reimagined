@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/mutils/mutils.json5"
+hash = "ff4544fd27a78f4ed1ab091a093af77c29944fea01e872536c9509292e5945e6"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
@@ -261,6 +265,11 @@ hash = "0b60e339316c855ac576bc8884185c8678e951c39bec99bd1c76106d5efaf573"
 metafile = true
 
 [[files]]
+file = "mods/mutils.pw.toml"
+hash = "46c5d2f3d0bf97084425e63de219b540c06da070d0d941390f64f57a2254d718"
+metafile = true
+
+[[files]]
 file = "mods/mythic-mounts.pw.toml"
 hash = "e2857e7300160eeef88f8dffca85f32aac786813ca5410ec6dc587c35b2665e9"
 metafile = true
@@ -413,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "d5763cae561c3c23d431275e5d930a43bae2cc8e71f39a50a1b3d15b70a5b3f5"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
 metafile = true
 
 [[files]]
