@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/mutils/mutils.json5"
-hash = "ff4544fd27a78f4ed1ab091a093af77c29944fea01e872536c9509292e5945e6"
+hash = "e62242a9813da617a1f42167548397a0ed21a15e4c46555b9022a4dcb969a755"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
