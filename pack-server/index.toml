@@ -116,6 +116,11 @@ hash = "08b04fbd0b4278608c31718352173dc3ffe5e62eacfffb01de54b394410a1566"
 metafile = true
 
 [[files]]
+file = "mods/dynmap.pw.toml"
+hash = "05aef453e10c1faca81aefb1e2b26ef98bb108d9ad9191b61b13acdfa329e4ab"
+metafile = true
+
+[[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "2748a91387d8bd583894ed2271eea4f3889095ebb0c72372b79e3a4878110710"
 metafile = true
