@@ -426,11 +426,6 @@ hash = "6fba63f2152b6e51365f55d4a689f61053a4aa8b785e904715aef3d595a9fcb8"
 metafile = true
 
 [[files]]
-file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "74a8abd34b5b6041e6762220c323a2efcd072c8a573e0ebdc241d9cc4ae73327"
-metafile = true
-
-[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
 metafile = true
@@ -458,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/undead-nights.pw.toml"
 hash = "bc511c30f68139cbefc045755b7acacdb9d208d7f863b26487fa167c5766e0b5"
+metafile = true
+
+[[files]]
+file = "mods/vics-point-blank.pw.toml"
+hash = "a00cc5dac6276138b406419dc6919e73735bcd19577fca3fa13f9353a4d1ccbc"
 metafile = true
 
 [[files]]
