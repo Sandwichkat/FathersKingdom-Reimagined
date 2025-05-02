@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynmap.pw.toml"
-hash = "05aef453e10c1faca81aefb1e2b26ef98bb108d9ad9191b61b13acdfa329e4ab"
+hash = "1aa272db27d85b42db821802320ce855ddd818b632755e5ba86aaf4138712301"
 metafile = true
 
 [[files]]

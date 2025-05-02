@@ -1,7 +1,7 @@
 name = "dynmap"
-filename = "vqx7tUUt"
+filename = "Dynmap-3.6-fabric-1.20.jar"
 
 [download]
-url = "https://modrinth.com/plugin/dynmap/version/vqx7tUUt"
+url = "https://cdn.modrinth.com/data/fRQREgAc/versions/vqx7tUUt/Dynmap-3.6-fabric-1.20.jar"
 hash-format = "sha256"
-hash = "25e754c5a6cad3b7066a5374e6f5eccc8c2e0c59e2cd6b5568aff2ffaea26b8a"
+hash = "b961fbc11923636855470734ff1832cb0a3f043bd3a34dba62cfce7ce788d2e4"
