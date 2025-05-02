@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/mutils/mutils.json5"
-hash = "4326c0392548477173ca292d0421b892224f50b2b24d7fc9f20d16f735cbd6d2"
+hash = "67ab891f699b1b5e0f33c7ff181c9b181831facfaf221b206f69344b7887f83f"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -170,11 +170,6 @@ hash = "e94fe94b0c26dd5b57604f06585b3d69d803733dac6a8e0a509917a8e63e5c8c"
 metafile = true
 
 [[files]]
-file = "mods/immersive-aircraft.pw.toml"
-hash = "1c4a41ca5c16702675d56211315bb8b87b943854a05fad31aaa606f0d7644ef9"
-metafile = true
-
-[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "979d10182ce335d75f52957ecdc4da32ec77ce612b0bf4517c1f9b4af6012ddd"
 metafile = true
@@ -190,8 +185,23 @@ hash = "f06d859796e84c8ecbdbbabd07c988d8c9b94f4c4ee3ab7dcce9400e4d073a62"
 metafile = true
 
 [[files]]
+file = "mods/interactive.pw.toml"
+hash = "18b60127de9614f0ace6a9a6101c41b9c7dc328a2723611c659f39a196a96a8e"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "b9fa4052f55fb11d52dcd0825cfa1b0341b741b1fe9029fbcc79abede25ccf56"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "9495bb2388d7fa5ccf6b33b485f75c7ed15f8a59956406a92ad427e8504980e8"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "d6be91dc0a2aca23ee640818d8a8295c85ddb2db6e0413669ecac9600b01eef0"
 metafile = true
 
 [[files]]
@@ -382,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/undead-nights.pw.toml"
 hash = "bc511c30f68139cbefc045755b7acacdb9d208d7f863b26487fa167c5766e0b5"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "bc7e0f9a0c6c0a07b3d9b5d43ca3891356a841ba71b25e148d237c7f7342a51d"
 metafile = true
 
 [[files]]

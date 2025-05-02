@@ -1,0 +1,13 @@
+name = "Just Zoom"
+filename = "justzoom_fabric_2.1.0_MC_1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iAiqcykM/versions/9RoWFL8K/justzoom_fabric_2.1.0_MC_1.20.1.jar"
+hash-format = "sha512"
+hash = "203642fe937106a03465d9116387def228c1805f38f6e7b233ec5f943b0db02c7125ebfc931f9969c4fd65215aa4d88c86e41c25ae7a8d1d3cf600669012063d"
+
+[update]
+[update.modrinth]
+mod-id = "iAiqcykM"
+version = "9RoWFL8K"
