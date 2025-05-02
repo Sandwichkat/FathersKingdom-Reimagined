@@ -1,6 +1,6 @@
 {
 	menuAlert: true,
-	chatAlert: true,
+	chatAlert: false,
 	chatMessage: "There is an update available for your modpack!",
 	platform: "CUSTOM",
 	modpackName: "Father's kingdom",
