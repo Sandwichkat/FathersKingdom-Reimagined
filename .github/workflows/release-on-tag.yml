@@ -16,7 +16,7 @@ jobs:
 
       - name: Create ZIP archive
         run: |
-          zip -r updater.zip ./update.ps1 ./update.bat
+          zip -r updater.zip update.ps1 update.bat
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v1
