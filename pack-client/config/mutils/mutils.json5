@@ -6,7 +6,7 @@
 	modpackName: "Father's kingdom",
 	modpackId: "my-modpack",
 	modpackHome: "https://github.com/Sandwichkat/FathersKingdom-Reimagined",
-	localVersion: "0.2.3",
+	localVersion: "0.2.4",
 	checkMcVersion: false,
 	loader: "fabric",
 	versionAPI: "https://raw.githubusercontent.com/Sandwichkat/FathersKingdom-Reimagined/refs/heads/main/pack-client/pack.toml",

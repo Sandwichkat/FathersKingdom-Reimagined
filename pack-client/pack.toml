@@ -1,12 +1,12 @@
 name = "Fless-reimagined-client"
 author = "Kat"
-version = "0.2.3"
+version = "0.2.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c0e17550339777444a5f422cb8ed9ce27390c92faf4f87a22ea97095d20772e2"
+hash = "39ca9662d6d6e6e377340bbf444c34fc22037e788aa5c85ac4754eec292f704b"
 
 [versions]
 fabric = "0.16.14"

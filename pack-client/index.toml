@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/mutils/mutils.json5"
-hash = "67ab891f699b1b5e0f33c7ff181c9b181831facfaf221b206f69344b7887f83f"
+hash = "396ab19412e9440f99a0a41ae04d8973edae241c139510503ddb96bc69b36fd7"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -460,4 +460,8 @@ hash = "bdf5eb873706783ea421af3cde0ae573607b7853fbb37e14a1513861a6a845f2"
 
 [[files]]
 file = "update.ps1"
-hash = "a5af52a6867209ba3b962b82d824da319fd317db0ecfa0da4ac83628e2980af9"
+hash = "3741f4426835c0ad32c542182a48c9a4580fa5d17142b88ad720496861d6d510"
+
+[[files]]
+file = "update.sh"
+hash = "869c2b4b39b58be3922cb8cd411495267ddf89e927e127632740964de940001c"
