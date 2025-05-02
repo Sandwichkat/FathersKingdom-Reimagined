@@ -1,0 +1,30 @@
+name: Release updater
+
+on:
+  workflow_dispatch:
+
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    environment: Release
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Create ZIP archive
+        run: |
+          zip -r updater.zip ./pack-client/update.ps1 ./pack-client/update.bat ./pack-client/update.sh
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ github.ref_name }}
+          body: |
+            Installer/Updater script for the modpack. 
+            Extract the contents of this .zip file to your .minecraft folder and execute it.
+            FOR MAC USERS: run `chmod +x ./update.sh` before executing.
+          files: updater.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
