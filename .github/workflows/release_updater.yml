@@ -1,10 +1,8 @@
-name: Release on Tag
+name: Release updater
 
 on:
   workflow_dispatch:
-  push:
-    tags:
-      - 'v*'  # Triggers on tags like v1.0, v2.1.3, etc. Adjust pattern as needed
+
 
 jobs:
   release:
@@ -16,12 +14,16 @@ jobs:
 
       - name: Create ZIP archive
         run: |
-          zip -r updater.zip ./pack-client/update.ps1 ./pack-client/update.bat
+          zip -r updater.zip ./pack-client/update.ps1 ./pack-client/update.bat ./pack-client/update.sh
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ github.ref_name }}
+          body: |
+            Installer/Updater script for the modpack. 
+            Extract the contents of this .zip file to your .minecraft folder and execute it.
+            FOR MAC USERS: run `chmod +x ./update.sh` before executing.
           files: updater.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
