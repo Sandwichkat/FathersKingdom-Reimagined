@@ -251,6 +251,11 @@ hash = "30b9370410f04344df5ccd3d86d2c716e1a4a93ca6b877d0a5452b5aa6609c94"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "0b60e339316c855ac576bc8884185c8678e951c39bec99bd1c76106d5efaf573"
 metafile = true
@@ -301,6 +306,11 @@ hash = "2684d553f77a9981817dc319d8f659e1165758fdd4c4a14a9ea183019e0dca95"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "657ff0025d408f1021309ce5c759821d1f48e397811cc0da6f0b0400827896fa"
+metafile = true
+
+[[files]]
 file = "mods/simple-radio.pw.toml"
 hash = "93ffd53b748ac829a2d822aea5086c69406dbbb0dab1f990244a9bdddde08640"
 metafile = true
@@ -313,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/small-ships.pw.toml"
 hash = "18d84c132f116eedf06e967346e98868cca5483f9015cfbc366a35b5eb223971"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]

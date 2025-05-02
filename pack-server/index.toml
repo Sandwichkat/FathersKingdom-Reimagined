@@ -361,6 +361,11 @@ hash = "2684d553f77a9981817dc319d8f659e1165758fdd4c4a14a9ea183019e0dca95"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "657ff0025d408f1021309ce5c759821d1f48e397811cc0da6f0b0400827896fa"
+metafile = true
+
+[[files]]
 file = "mods/simple-radio.pw.toml"
 hash = "93ffd53b748ac829a2d822aea5086c69406dbbb0dab1f990244a9bdddde08640"
 metafile = true
