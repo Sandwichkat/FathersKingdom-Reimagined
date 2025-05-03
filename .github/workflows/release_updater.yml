@@ -2,6 +2,9 @@ name: Release updater
 
 on:
   workflow_dispatch:
+  create:
+    tags:
+      - 'v*'
 
 
 jobs:
@@ -20,7 +23,7 @@ jobs:
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: ${{ github.ref_name }}
+          tag_name: ${{ github.ref }}
           body: |
             Installer/Updater script for the modpack. 
             Extract the contents of this .zip file to your .minecraft folder and execute it.
