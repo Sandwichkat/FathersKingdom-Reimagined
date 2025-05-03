@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/mutils/mutils.json5"
-hash = "396ab19412e9440f99a0a41ae04d8973edae241c139510503ddb96bc69b36fd7"
+hash = "af7191400653821e477a9781298da06e7a2480c377505897d6e37ef202b2e34d"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -172,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "979d10182ce335d75f52957ecdc4da32ec77ce612b0bf4517c1f9b4af6012ddd"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
 
 [[files]]
