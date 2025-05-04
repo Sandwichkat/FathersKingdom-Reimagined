@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/mutils/mutils.json5"
-hash = "af7191400653821e477a9781298da06e7a2480c377505897d6e37ef202b2e34d"
+hash = "0f81d63009634dff0f60e16c62ab1bdf53a2383b2dbd2fdf08371dce4058aed0"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -32,11 +32,6 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
-metafile = true
-
-[[files]]
-file = "mods/better-combat.pw.toml"
-hash = "9f92d063b29316733455bcf5ca2c0f77f31a479d9c0ceb8c3557da177691131c"
 metafile = true
 
 [[files]]
@@ -176,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+hash = "ec0e252c91555b61ba6132207c925d95e85e26ca16f8082e47b367860a70cc88"
 metafile = true
 
 [[files]]
@@ -342,11 +337,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "dc7cdb875b860056c1dcc88988e0ed17d0058d9127f897ffe058457f3daa888a"
-metafile = true
-
-[[files]]
-file = "mods/small-ships.pw.toml"
-hash = "18d84c132f116eedf06e967346e98868cca5483f9015cfbc366a35b5eb223971"
 metafile = true
 
 [[files]]

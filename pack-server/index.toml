@@ -31,11 +31,6 @@ hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "9f92d063b29316733455bcf5ca2c0f77f31a479d9c0ceb8c3557da177691131c"
-metafile = true
-
-[[files]]
 file = "mods/better-end-cities-base.pw.toml"
 hash = "2c05589983f4432f7f2f540bc9f38a030b21f2424dba577d6a8df68fd56a662a"
 metafile = true
@@ -383,11 +378,6 @@ metafile = true
 [[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "83dec691cc239efb37622b00e343642076ca8348374b25e3243ca595fead138f"
-metafile = true
-
-[[files]]
-file = "mods/small-ships.pw.toml"
-hash = "18d84c132f116eedf06e967346e98868cca5483f9015cfbc366a35b5eb223971"
 metafile = true
 
 [[files]]
