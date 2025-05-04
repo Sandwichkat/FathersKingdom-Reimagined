@@ -301,6 +301,11 @@ hash = "30b9370410f04344df5ccd3d86d2c716e1a4a93ca6b877d0a5452b5aa6609c94"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "d6dee7f50e18a18f212f433e4449bb6f92eb03f1ac771532593819bbde1f0883"
 metafile = true
