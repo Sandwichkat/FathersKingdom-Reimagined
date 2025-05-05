@@ -426,6 +426,11 @@ hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
 metafile = true
 
 [[files]]
+file = "mods/trackwork-refabricated.pw.toml"
+hash = "6740fe93d054dd88246c5edfa0060d4d8d81c0b3f1f404acd0954771c804861c"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "1176112cb6bc5f85b1c28434b11ae2166f0e85a222d563643984d399871cac39"
 metafile = true
