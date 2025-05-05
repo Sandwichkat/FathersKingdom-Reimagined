@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/mutils/mutils.json5"
-hash = "0f81d63009634dff0f60e16c62ab1bdf53a2383b2dbd2fdf08371dce4058aed0"
+hash = "02d9d5c1032c01ead01934286c938f62261f16b2fe098df5f267a6e80de70e2d"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -37,6 +37,11 @@ metafile = true
 [[files]]
 file = "mods/betterend.pw.toml"
 hash = "dd8057c40ff94e9a21a121583884f71c9a6b1eaa6f913ef46c5d1f9b37fe487f"
+metafile = true
+
+[[files]]
+file = "mods/chat-signing-hider.pw.toml"
+hash = "0316bef0a053087053e55515f84f28a47648720e60e4bfad5e299816f8e0f92f"
 metafile = true
 
 [[files]]
