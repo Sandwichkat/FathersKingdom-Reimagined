@@ -1,12 +1,12 @@
 name = "Fless-reimagined-server"
 author = "Kat"
-version = "0.2.9"
+version = "0.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d1334a8c040d97898b5157a74f20c69fe0fe19eb70ca67b26b31ca5dafcdd955"
+hash = "1f073704d7709d66ecd2ac657d73177b080d7468affa513e38ac9857a23010e0"
 
 [versions]
 fabric = "0.16.14"

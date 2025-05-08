@@ -486,11 +486,6 @@ hash = "eef977bcac4bfd222529a55088771722227f25ff8174338809783a7871caa27d"
 metafile = true
 
 [[files]]
-file = "mods/wildlife-fabric.pw.toml"
-hash = "6110a721acb5ed26ac1514767c6150b42801cf5d507deaf0ce055daece2cbb95"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "dba82d56d2514555ac3e326359a913c804b1a1137a6d696d80f73aadaf0ff62f"
 metafile = true

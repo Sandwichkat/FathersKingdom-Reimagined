@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/mutils/mutils.json5"
-hash = "b434632ebcaa249548f9d0cb020ba98c69ff584cfa321474f96775d41c04aa2a"
+hash = "0563eb3320c35ada279facc75a85c8463f024b35c71ff8a5ba3c2e15f834e2cf"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -427,11 +427,6 @@ metafile = true
 [[files]]
 file = "mods/watermedia.pw.toml"
 hash = "eef977bcac4bfd222529a55088771722227f25ff8174338809783a7871caa27d"
-metafile = true
-
-[[files]]
-file = "mods/wildlife-fabric.pw.toml"
-hash = "6110a721acb5ed26ac1514767c6150b42801cf5d507deaf0ce055daece2cbb95"
 metafile = true
 
 [[files]]
