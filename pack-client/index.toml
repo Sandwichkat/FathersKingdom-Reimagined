@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/mutils/mutils.json5"
-hash = "0563eb3320c35ada279facc75a85c8463f024b35c71ff8a5ba3c2e15f834e2cf"
+hash = "0404769d10b00d9b0c13a61a3fb55b3a705732055fc6c155978ea71beb12bebb"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -367,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "6fba63f2152b6e51365f55d4a689f61053a4aa8b785e904715aef3d595a9fcb8"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
 metafile = true
 
 [[files]]

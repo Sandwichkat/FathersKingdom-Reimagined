@@ -421,6 +421,11 @@ hash = "6fba63f2152b6e51365f55d4a689f61053a4aa8b785e904715aef3d595a9fcb8"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
 metafile = true
