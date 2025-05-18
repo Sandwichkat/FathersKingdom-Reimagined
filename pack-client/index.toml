@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/mutils/mutils.json5"
-hash = "3117e9fb4d8ddd5fc08daafeb81c033ee647d82578d8a9da6e5ad5456c0eda4f"
+hash = "d0a4c1be88e2df096f0db54af1b222e9aff0c2d4b46a03ecd5a3a00e3340e3b3"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
+hash = "1ee3c2d6b08bf4c5d7925796244f97f07e826f48ed5696153945a904a5c9030f"
 metafile = true
 
 [[files]]
