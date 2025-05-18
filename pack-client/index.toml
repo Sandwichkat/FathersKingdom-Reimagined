@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/mutils/mutils.json5"
-hash = "0404769d10b00d9b0c13a61a3fb55b3a705732055fc6c155978ea71beb12bebb"
+hash = "588360a5d388362e85ee998e33a7104eb03e6002bd31c95c87f4409f2a7f7da5"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-radio.pw.toml"
-hash = "93ffd53b748ac829a2d822aea5086c69406dbbb0dab1f990244a9bdddde08640"
+hash = "7a5264df2f59f9e6faa7e2209ecb52423f3658f02381df4edcc753074c29ad88"
 metafile = true
 
 [[files]]

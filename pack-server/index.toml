@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-radio.pw.toml"
-hash = "93ffd53b748ac829a2d822aea5086c69406dbbb0dab1f990244a9bdddde08640"
+hash = "7a5264df2f59f9e6faa7e2209ecb52423f3658f02381df4edcc753074c29ad88"
 metafile = true
 
 [[files]]
