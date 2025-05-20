@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/anvil-fix-reborn.pw.toml"
+hash = "1091133eb6ced08fcb4d0c285d6e4290862be41d5b265171ad4d46843a1dd8c7"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
@@ -41,6 +46,11 @@ hash = "dd8057c40ff94e9a21a121583884f71c9a6b1eaa6f913ef46c5d1f9b37fe487f"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "127f0a7311e4ecd77c0b96660e0ff873d78d253fffb68db6101eeb414de38bb1"
 metafile = true
@@ -68,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "2c65b7ed826a2d147f0eb4788152b9f1ae878e0df102af58a9ea23ebd1c48f04"
 metafile = true
 
 [[files]]
@@ -198,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e94fe94b0c26dd5b57604f06585b3d69d803733dac6a8e0a509917a8e63e5c8c"
+metafile = true
+
+[[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "0126e37774a89e6089826219d27b65f4d11b48fe0b352c701b7e2371c590b08c"
 metafile = true
 
 [[files]]

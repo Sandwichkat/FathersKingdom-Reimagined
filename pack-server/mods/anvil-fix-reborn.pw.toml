@@ -1,0 +1,13 @@
+name = "Anvil Fix Reborn"
+filename = "AnvilFix-20.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/oIoAucDh/versions/QkxwJFlI/AnvilFix-20.0.1.jar"
+hash-format = "sha512"
+hash = "011127617e9770395cd9e22f0ce44353afca72683a3e2341a61972a9b1404dfd55286e4f4966f3862d89ae2fca64e64f587e92b207adaf0475f87425cfff834f"
+
+[update]
+[update.modrinth]
+mod-id = "oIoAucDh"
+version = "QkxwJFlI"
