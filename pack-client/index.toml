@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/mutils/mutils.json5"
-hash = "ff11e3cd0c84c73e86ff1a4f84a89a9b92302437507037b7eba8fc7de9846b0f"
+hash = "faabe98562b7bbf284078ebf899c23b1a41446b3ddd450416ef627f619441a41"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -77,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "2c65b7ed826a2d147f0eb4788152b9f1ae878e0df102af58a9ea23ebd1c48f04"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
 metafile = true
 
 [[files]]
